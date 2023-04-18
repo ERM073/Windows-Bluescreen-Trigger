@@ -8,7 +8,9 @@ C# code to force Windows to cause a blue screen error
 ## How to use
 
 1.Create a C# application in Visual Studio
+
 2.Place a button on Form1.
+
 3.Rewrite the trigger of the button in Form1.cs to the code in this repository
 
 ## Warning
